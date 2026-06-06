@@ -1,0 +1,49 @@
+rank_by_odds,draftkings_team_name,team,fifa_code,group,american_odds,decimal_odds,implied_probability,implied_probability_pct,no_vig_probability,no_vig_probability_pct,market,sportsbook,source_updated_at,captured_at
+1,France,France,FRA,I,+500,6.0,0.16666667,16.6667,0.14155368,14.1554,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+2,Spain,Spain,ESP,H,+500,6.0,0.16666667,16.6667,0.14155368,14.1554,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+3,England,England,ENG,L,+650,7.5,0.13333333,13.3333,0.11324295,11.3243,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+4,Brazil,Brazil,BRA,C,+800,9.0,0.11111111,11.1111,0.09436912,9.4369,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+5,Argentina,Argentina,ARG,J,+850,9.5,0.10526316,10.5263,0.08940233,8.9402,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+6,Portugal,Portugal,POR,K,+1100,12.0,0.08333333,8.3333,0.07077684,7.0777,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+7,Germany,Germany,GER,E,+1400,15.0,0.06666667,6.6667,0.05662147,5.6621,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+8,Netherlands,Netherlands,NED,F,+2000,21.0,0.04761905,4.7619,0.04044391,4.0444,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+9,Norway,Norway,NOR,I,+3000,31.0,0.03225806,3.2258,0.02739749,2.7397,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+10,Belgium,Belgium,BEL,G,+3500,36.0,0.02777778,2.7778,0.02359228,2.3592,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+11,Colombia,Colombia,COL,K,+4000,41.0,0.02439024,2.439,0.02071517,2.0715,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+12,Morocco,Morocco,MAR,C,+5000,51.0,0.01960784,1.9608,0.01665337,1.6653,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+13,Japan,Japan,JPN,F,+5000,51.0,0.01960784,1.9608,0.01665337,1.6653,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+14,USA,United States,USA,D,+6000,61.0,0.01639344,1.6393,0.01392331,1.3923,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+15,Uruguay,Uruguay,URU,H,+6500,66.0,0.01515152,1.5152,0.01286852,1.2869,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+16,Mexico,Mexico,MEX,A,+7500,76.0,0.01315789,1.3158,0.01117529,1.1175,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+17,Switzerland,Switzerland,SUI,B,+8000,81.0,0.01234568,1.2346,0.01048546,1.0485,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+18,Croatia,Croatia,CRO,L,+8000,81.0,0.01234568,1.2346,0.01048546,1.0485,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+19,Ecuador,Ecuador,ECU,E,+9000,91.0,0.01098901,1.0989,0.00933321,0.9333,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+20,Turkey,Türkiye,TUR,D,+10000,101.0,0.00990099,0.9901,0.00840913,0.8409,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+21,Sweden,Sweden,SWE,F,+10000,101.0,0.00990099,0.9901,0.00840913,0.8409,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+22,Senegal,Senegal,SEN,I,+11000,111.0,0.00900901,0.9009,0.00765155,0.7652,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+23,Paraguay,Paraguay,PAR,D,+15000,151.0,0.00662252,0.6623,0.00562465,0.5625,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+24,Austria,Austria,AUT,J,+15000,151.0,0.00662252,0.6623,0.00562465,0.5625,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+25,Scotland,Scotland,SCO,C,+20000,201.0,0.00497512,0.4975,0.00422548,0.4225,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+26,Canada,Canada,CAN,B,+20000,201.0,0.00497512,0.4975,0.00422548,0.4225,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+27,Bosnia,Bosnia and Herzegovina,BIH,B,+25000,251.0,0.00398406,0.3984,0.00338375,0.3384,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+28,Czech Republic,Czechia,CZE,A,+25000,251.0,0.00398406,0.3984,0.00338375,0.3384,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+29,Ivory Coast,Côte d'Ivoire,CIV,E,+25000,251.0,0.00398406,0.3984,0.00338375,0.3384,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+30,Ghana,Ghana,GHA,L,+30000,301.0,0.00332226,0.3322,0.00282167,0.2822,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+31,Egypt,Egypt,EGY,G,+30000,301.0,0.00332226,0.3322,0.00282167,0.2822,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+32,Algeria,Algeria,ALG,J,+35000,351.0,0.002849,0.2849,0.00241972,0.242,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+33,South Korea,Korea Republic,KOR,A,+45000,451.0,0.00221729,0.2217,0.0018832,0.1883,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+34,Tunisia,Tunisia,TUN,F,+50000,501.0,0.00199601,0.1996,0.00169525,0.1695,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+35,Australia,Australia,AUS,D,+50000,501.0,0.00199601,0.1996,0.00169525,0.1695,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+36,Iran,IR Iran,IRN,G,+50000,501.0,0.00199601,0.1996,0.00169525,0.1695,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+37,DR Congo,DR Congo,COD,K,+70000,701.0,0.00142653,0.1427,0.00121159,0.1212,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+38,South Africa,South Africa,RSA,A,+80000,801.0,0.00124844,0.1248,0.00106033,0.106,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+39,Uzbekistan,Uzbekistan,UZB,K,+100000,1001.0,0.000999,0.0999,0.00084847,0.0848,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+40,Cape Verde,Cape Verde,CPV,H,+100000,1001.0,0.000999,0.0999,0.00084847,0.0848,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+41,Saudi Arabia,Saudi Arabia,KSA,H,+100000,1001.0,0.000999,0.0999,0.00084847,0.0848,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+42,Qatar,Qatar,QAT,B,+100000,1001.0,0.000999,0.0999,0.00084847,0.0848,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+43,Panama,Panama,PAN,L,+100000,1001.0,0.000999,0.0999,0.00084847,0.0848,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+44,New Zealand,New Zealand,NZL,G,+100000,1001.0,0.000999,0.0999,0.00084847,0.0848,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+45,Iraq,Iraq,IRQ,I,+100000,1001.0,0.000999,0.0999,0.00084847,0.0848,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+46,Curacao,Curaçao,CUW,E,+200000,2001.0,0.00049975,0.05,0.00042445,0.0424,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+47,Jordan,Jordan,JOR,J,+200000,2001.0,0.00049975,0.05,0.00042445,0.0424,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
+48,Haiti,Haiti,HAI,C,+250000,2501.0,0.00039984,0.04,0.00033959,0.034,World Cup 2026 winner,DraftKings Sportsbook,2026-05-22,2026-06-06
